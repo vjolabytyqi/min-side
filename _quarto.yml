@@ -1,9 +1,9 @@
 project: 
-    type: website
+  type: website
 
-    website:
-        title: "Vjola B."
-        navbar:
-            left:
-            - index.qmd
+website:
+    title: "Vjola"
+    navbar:
+        left:
+        - index.qmd
             
