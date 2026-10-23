@@ -2,8 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my website",
+    "title": "jjjjjj",
     "section": "",
-    "text": "title: “Welcome” format: html: theme: cosmo\n\n\nWelcome to my website"
+    "text": "Welcome to my website"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "cv",
+    "section": "",
+    "text": "elev.\nBy - E-mail - Telefon\n\n\nBlah blah blah\n\n\n\n\niei\ndkd\n\nlink til forsiden"
+  },
+  {
+    "objectID": "cv.html#hvem-er-jeg",
+    "href": "cv.html#hvem-er-jeg",
+    "title": "cv",
+    "section": "",
+    "text": "Blah blah blah"
+  },
+  {
+    "objectID": "cv.html#erfaring",
+    "href": "cv.html#erfaring",
+    "title": "cv",
+    "section": "",
+    "text": "iei\ndkd\n\nlink til forsiden"
   }
 ]

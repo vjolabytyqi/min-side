@@ -1,10 +1,5 @@
 ---
-
-title: "Welcome"
-format: 
-   html:
-       theme: cosmo
-
+title: "jjjjjj"
 ---
 
 # Welcome to my website 

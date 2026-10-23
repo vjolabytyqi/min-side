@@ -1,0 +1,21 @@
+---
+title: "cv"
+---
+
+# Vjola Bytyqi
+
+**elev**.  
+By - E-mail - Telefon 
+
+## Hvem er jeg?
+
+Blah blah blah
+
+## Erfaring
+
+- iei
+
+- dkd
+
+[link til forsiden](index.qmd)
+

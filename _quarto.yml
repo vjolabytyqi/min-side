@@ -6,5 +6,10 @@ website:
     title: "Vjola"
     navbar:
         left:
-        - index.qmd
-            
+        - href: index.qmd
+          text: "hej"
+        - cv.qmd
+
+format: 
+   html:
+       theme: lux
