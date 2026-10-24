@@ -9,6 +9,10 @@ website:
         - href: index.qmd
           text: "Velkommen"
         - cv.qmd
+        - projekt.qmd 
+        - metode.qmd
+        - patrick.qmd
+
 
 format: 
    html:

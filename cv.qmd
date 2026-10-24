@@ -4,10 +4,16 @@ title: "cv"
 
 # Vjola Bytyqi
 
+![Portræt af Vjola](images/images/lol.jpg){width=250}
+
+
 **elev**.  
+
 By - E-mail - Telefon 
 
 ## Hvem er jeg?
+
+
 
 Blah blah blah
 
